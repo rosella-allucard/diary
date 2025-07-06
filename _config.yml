@@ -13,6 +13,9 @@ baseurl: ""
 twitter_username: 
 default_img: 
 
+# Category settings
+category_dir: categories
+
 # SIdebar settings
 sidebar: true
 sidebar-about-desciption: "Hakuna Matata"
@@ -61,6 +64,3 @@ comment:
 # Featured Tags
 featured-tags: true
 featured-condition-size: 1
-
-# Category settings
-category_dir: categories
