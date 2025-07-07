@@ -8,8 +8,8 @@ header-img: https://res.cloudinary.com/rosellaalucard/image/upload/v1565285286/R
 title: Qian-Ze Zhu
 SEOtitle: Qian-Ze Zhu | Blog
 description: A second-year undergraduate in Department of Physics, Peking University, China.
-url: "https://rosellaalucard.github.io/"
-baseurl: ""
+url: "https://rosella-allucard.github.io"
+baseurl: "/diary"
 twitter_username: 
 default_img: 
 
@@ -34,7 +34,6 @@ plugins:
   - jekyll-gist
   - jekyll-coffeescript
   - jekyll-assets
-  - another-jekyll-plugin
 compress_html:
   clippings: all
   comments: all
