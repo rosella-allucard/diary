@@ -19,11 +19,11 @@ category_dir: categories
 # SIdebar settings
 sidebar: true
 sidebar-about-desciption: "Hakuna Matata"
-sidebar-avatar: images/IMG_7609_cropped.jpg
+sidebar-avatar: https://rosella-allucard.github.io/diary/images/IMG_7609_cropped.jpg
 
 # Profile settings
 name: Rosella Zhu
-profile_img: images/IMG_7609_cropped.jpg
+profile_img: https://rosella-allucard.github.io/diary/images/IMG_7609_cropped.jpg
 profile: Graduate student @Harvard University, Applied physics & Applied math. Some random thoughts.
 social:
   github: https://github.com/rosella-allucard
