@@ -498,11 +498,6 @@
     &:after {
       @extend %overlay;
     }
-    
-    .absolute-bg {
-      background-size: 1600px 1600px;
-      background-position: center center;
-    }
   }
 
   &__container {
