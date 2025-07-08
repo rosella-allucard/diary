@@ -1,9 +1,7 @@
 ---
 ---
-@import
-  'vendors/normalize',
-  'vendors/syntax',
 
+@import
   'base',
   'mixins',
   'extends',
@@ -12,24 +10,3 @@
   'animations',
   'helpers'
 ;
-
-// Custom styles to make profile image square
-.profile__img {
-  position: relative;
-  width: 100%;
-  padding-bottom: 100% !important; // Force 1:1 aspect ratio
-  min-height: auto !important;
-  overflow: hidden;
-  
-  .absolute-bg {
-    background-size: cover;
-    background-position: center;
-  }
-}
-
-@media (min-width: 54em) {
-  .profile__img {
-    flex-basis: 45%;
-    max-width: 45%;
-  }
-}
