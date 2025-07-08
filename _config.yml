@@ -1,13 +1,13 @@
 # Site/SEO settings
-email: zhuqianze@pku.edu.cn
+email: rosellazhu@gmail.com
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-header-img: https://res.cloudinary.com/rosellaalucard/image/upload/v1565285286/R0002286_ihewgv.jpg
+header-img: 
 
-title: Qian-Ze Zhu
-SEOtitle: Qian-Ze Zhu | Blog
-description: A second-year undergraduate in Department of Physics, Peking University, China.
+title: Rosella Zhu
+SEOtitle: Rosella Zhu | Blog
+description: Graduate student @Harvard University, Applied physics & Applied math. Some random thoughts.
 url: "https://rosella-allucard.github.io"
 baseurl: "/diary"
 twitter_username: 
@@ -19,14 +19,14 @@ category_dir: categories
 # SIdebar settings
 sidebar: true
 sidebar-about-desciption: "Hakuna Matata"
-sidebar-avatar: https://res.cloudinary.com/rosellaalucard/image/upload/v1562178799/avatar_u6jrpf.jpg
+sidebar-avatar: images/IMG_7609_cropped.jpg
 
 # Profile settings
-name: Qian-Ze Zhu
-profile_img: https://res.cloudinary.com/rosellaalucard/image/upload/v1562178799/avatar_u6jrpf.jpg
-profile: A second-year undergraduate in Department of Physics, Peking University, China. Love all kinds of beautiful things.
+name: Rosella Zhu
+profile_img: images/IMG_7609_cropped.jpg
+profile: Graduate student @Harvard University, Applied physics & Applied math. Some random thoughts.
 social:
-  github: https://github.com/RosellaAlucard
+  github: https://github.com/rosella-allucard
 
 # Build settings
 markdown: kramdown
@@ -58,7 +58,7 @@ post_asset_folder: true
 
 # Comments
 comment:
-        disqus: https://rosellaalucard.github.io/
+        disqus: https://rosellaalucard.github.io/diary/
 
 # Featured Tags
 featured-tags: true
